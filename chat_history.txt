@@ -8,3 +8,9 @@ NIKHIL connected
 HITESH connected
 NIKHIL disconnected
 HITESH disconnected
+Nikhil connected IP:127.0.0.1 Port:58248 Time:07:34 PM
+Hitesh connected IP:127.0.0.1 Port:58261 Time:07:36 PM
+[07:37 PM] Nikhil: hello
+Nikhil disconnected
+[07:39 PM] Hitesh: rxit
+Hitesh disconnected
